@@ -15,3 +15,5 @@
 .DS_Store
 .prettierignore
 /zip
+/design
+style-guide.md
